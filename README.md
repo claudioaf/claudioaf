@@ -24,3 +24,7 @@ I'm Cláudio, data lover 📊 graduated in engineering with a postgraduate degre
 <a href="//www.linkedin.com/in/cl%C3%A1udio-falc%C3%A3o-096b57a9/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="//www.medium.com/me/stories/public"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
 <a href="//www.kaggle.com/cludiofalco"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+
+<hr width = “2” size = “100”>
+📌See my Power BI portfolio<a href="//docs.google.com/spreadsheets/d/1lqd5MGhu2hi2UGJxxLejbIB7V20Kj1Bhy6iPhA_bZcQ/edit?usp=sharing">🔗</a>
+
