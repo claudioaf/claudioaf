@@ -8,7 +8,6 @@ Hi There 👋
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 <img src="https://img.shields.io/endpoint?color=%23F2C811&label=Power%20BI&logo=Power%20BI&logoColor=%23F2C811&style=for-the-badge"/>
-<img alt="Custom badge" src="https://img.shields.io/endpoint?color=%23F2C811&label=Power%20BI&logo=Power%20BI&logoColor=%23F2C811&style=for-the-badge">
                                                                                                                                                       
                                                                                                                        
 <p>
