@@ -4,7 +4,7 @@ Hello there 👋
 
 I'm Cláudio, data lover 📊 graduated in engineering with a postgraduate degree in BI with Big Data, I have experience with data analysis and  data visualization, Database and ETL. I look for experiences that allow me to develop models for predictive analysis and machine learning.
 <p>
-You will find at my repositories, projects commented in English and Portuguese (Pt-Br)
+You will find projects commented in English and Portuguese (Pt-Br) at my repositories 
 
 <hr width = “2” size = “100”>
 
