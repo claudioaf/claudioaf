@@ -2,7 +2,7 @@ Hello there 👋
 
 <hr width = “2” size = “100”>
 
-I'm Cláudio, data lover 📊 graduated in engineering with a postgraduate degree in BI with Big Data, I have experience with data analysis and  data visualization, Database and ETL. I look for experiences that allow me to develop models for predictive analysis and machine learning.
+I'm Cláudio, data lover 📊 graduated in engineering with a postgraduate degree in BI with Big Data, I have experience with data analysis and  data visualization, Database and ETL. I seek experiences that allow me to develop projects related to predictive analysis, machine learning and artificial intelligence.
 <p>
 You will find projects commented in English and Portuguese (Pt-Br) at my repositories 
 
