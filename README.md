@@ -28,5 +28,5 @@ You will find projects commented in English and Portuguese (Pt-Br) at my reposit
 <a href="//www.kaggle.com/cludiofalco"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
 
 <hr width = “2” size = “100”>
-📌See my Power BI portfolio<a href="//docs.google.com/spreadsheets/d/1lqd5MGhu2hi2UGJxxLejbIB7V20Kj1Bhy6iPhA_bZcQ/edit?usp=sharing">🔗</a>
+📌You can see my Power BI portfolio clicking here 👉<a href="//docs.google.com/spreadsheets/d/1lqd5MGhu2hi2UGJxxLejbIB7V20Kj1Bhy6iPhA_bZcQ/edit?usp=sharing">🔗</a>
 
