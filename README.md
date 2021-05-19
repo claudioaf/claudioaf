@@ -18,8 +18,7 @@ You will find projects commented in English and Portuguese (Pt-Br) at my reposit
 <img src="https://img.shields.io/badge/MySql-4479A1?style=for-the-badge&logo=mySQL&logo&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pentaho-4479A1?style=for-the-badge&logo=mySQL&logo&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pentaho-6382BF?style=for-the-badge&logo=mySQL&logo&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pentaho-4E74BF?style=for-the-badge&logo=mySQL&logo&logoColor=white"/>
                                                                                                                                                       
                                                                                                                        
 <p>
