@@ -2,7 +2,12 @@ Hello there 👋
 
 <hr width = “2” size = “100”>
 
-I'm Cláudio, data lover 📊 graduated in engineering with a postgraduate degree in BI with Big Data, I have been working in data Engineering and BI projects in recent years. I seek experiences that allow me to develop projects related to predictive analysis, machine learning and artificial intelligence.
+I'm Cláudio, data lover 📊 graduated in engineering with a postgraduate degree in BI with Big Data.
+
+I'm a BI/Power BI specialist and an Azure Data Engineer.
+
+I am passionate about the DataDriven journey, generating value, meaning and answering complex business problems.
+
 <p>
 
 <hr width = “2” size = “100”>
